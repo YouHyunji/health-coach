@@ -22,6 +22,11 @@
 
 <br />
 
+## 🔗 링크
+
+**Original Repository Link :** https://github.com/health-coach/health-coach-service 
+
+
 ### 👉 클라우드 아키텍처의 핵심 요소
 
 - **멀티 클라우드 아키텍처:**  <br />
